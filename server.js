@@ -39,12 +39,7 @@ dataBase.push(noteBody)
 fs.writeFileSync('./db/db.json', JSON.stringify(dataBase))
   res.json(dataBase);
 });
-// // Wildcard route to direct users to a 404 page
-// app.get('*', (req, res) =>
-//   res.sendFile(path.join(__dirname, 'public/pages/404.html'))
-// );
 
-// localhost:3001/
 app.listen(PORT, () =>
   console.log(`App listening at http://localhost:${PORT}`)
 );
