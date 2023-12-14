@@ -25,5 +25,10 @@ Usage
 - Create, view, and delete notes as needed.
 
 Deployment
-The application is ready for deployment to Heroku but has not yet been deployed due to tech
+The application has been deployed via heroku.
 
+Live App:
+https://my-express-notetaker-c2a3b3af409d.herokuapp.com
+
+Repo:
+https://github.com/MustafeMohamoud1/My-express-notetaker
