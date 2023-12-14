@@ -13,7 +13,7 @@ Technologies Used
 
 Installation
 - Clone the repository to your local machine.
-- git clone https://github.com/your-username/note-taker.git
+- git clone https://github.com/MustafeMohamoud1/My-express-notetaker
 - Navigate to the project directory.
 - Install the required npm packages.
 - npm install
